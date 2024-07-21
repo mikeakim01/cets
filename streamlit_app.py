@@ -10,7 +10,7 @@ with st.sidebar:
     st.markdown("[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/streamlit/llm-examples?quickstart=1)")
 
 # Title for the Streamlit app
-st.title("💬 NIT ChatBot")
+st.title("🤖 ChatBot Enhanced Technical Support")
 
 # Read NIT information from the text file
 try:
@@ -22,7 +22,7 @@ except FileNotFoundError:
 
 # Input for new questions
 question = st.text_input(
-    "Ask something about NIT",
+    "💬 Ask something about NIT",
     placeholder="What courses does NIT offer?",
 )
 
