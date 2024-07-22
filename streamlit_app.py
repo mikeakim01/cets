@@ -24,16 +24,19 @@ except FileNotFoundError:
 if "messages" not in st.session_state:
     st.session_state["messages"] = []
 
-# Display chat history
-for message in st.session_state.messages:
-    role = message["role"]
-    st.chat_message(role).write(message["content"])
+# Container for the chat history
+with st.container():
+    for message in st.session_state.messages:
+        role = message["role"]
+        st.chat_message(role).write(message["content"])
 
-# Input for new questions
-prompt = st.text_input(
-    "💬 Ask something about NIT",
-    placeholder="What courses does NIT offer?",
-)
+# Input field at the bottom
+with st.container():
+    prompt = st.text_input(
+        "💬 Ask something about NIT",
+        placeholder="What courses does NIT offer?",
+        key="input"
+    )
 
 # Process the question if provided
 if prompt:
