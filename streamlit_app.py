@@ -27,7 +27,7 @@ except FileNotFoundError:
 
 # Initialize session state for messages if not already present
 if "messages" not in st.session_state:
-    st.session_state["messages"] = [{"role": "assistant", "content": "How can I assist you with NIT information today?"}]
+    st.session_state["messages"] = [{"role": "assistant", "content": "How can I assist you with today?"}]
 
 # Display chat history
 for message in st.session_state["messages"]:
