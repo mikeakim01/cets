@@ -9,7 +9,7 @@ ANTHROPIC_API_KEY = st.secrets["key"]
 
 # Add a loading spinner
 with st.spinner("Loading..."):
-    time.sleep(2)  # Simulate loading time
+       st.title("🤖 ChatBot Enhanced Technical Support")
 
 
 # Sidebar for links
