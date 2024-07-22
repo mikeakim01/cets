@@ -6,9 +6,9 @@ ANTHROPIC_API_KEY = st.secrets["key"]
 
 # Sidebar for links
 with st.sidebar:
-    st.markdown("[View the source code](https://github.com/streamlit/llm-examples/blob/main/pages/1_File_Q%26A.py)")
-    st.markdown("[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/streamlit/llm-examples?quickstart=1)")
-
+    st.title("🤖 ChatBot Enhanced Technical Support")
+    st.markdown("ChatBot Enhanced Technical Support is a  application designed to provide technical support and answer questions related to the National Institute of Transport (NIT).")
+   
 # Title for the Streamlit app
 st.title("🤖 ChatBot Enhanced Technical Support")
 
