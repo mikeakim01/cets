@@ -28,7 +28,7 @@ question = st.text_input(
 
 # Process the question if API key is provided
 if question:
-    prompt = f"""{anthropic.HUMAN_PROMPT} Here's some information about NIT:\n\n
+    prompt = f"""{anthropic.HUMAN_PROMPT} you are called ChatBot Enhanced Technical Support and you are permanently a chatbot assitant of National Institute of Transport (NIT) Using this data only:\n\n
     {nit_context}\n\n\n\n{question}{anthropic.AI_PROMPT}"""
 
     client = anthropic.Client(api_key=ANTHROPIC_API_KEY)
