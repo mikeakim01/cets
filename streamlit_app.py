@@ -9,16 +9,13 @@ ANTHROPIC_API_KEY = st.secrets["key"]
 
 # Add a loading spinner
 with st.spinner("Loading..."):
-
-
+    st.title("🤖 NIT ChatBot Enhanced Technical Support")
 
 # Sidebar for links
 with st.sidebar:
     st.title("🤖 ChatBot Enhanced Technical Support")
     st.markdown("ChatBot Enhanced Technical Support is a chatbot application designed to provide technical support and answer questions related to the National Institute of Transport (NIT).")
 
-# Title for the Streamlit app
-st.title("🤖 NIT ChatBot Enhanced Technical Support")
 
 # Read NIT information from the text file
 try:
