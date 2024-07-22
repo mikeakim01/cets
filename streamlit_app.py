@@ -1,7 +1,10 @@
 import streamlit as st
 import anthropic
 
-# Set your API key directly here
+# App title
+st.set_page_config(page_title="🤖 NIT ChatBot")
+
+# Set your API key directly here from secrets
 ANTHROPIC_API_KEY = st.secrets["key"]
 
 # Sidebar for links
@@ -10,7 +13,7 @@ with st.sidebar:
     st.markdown("ChatBot Enhanced Technical Support is a chatbot application designed to provide technical support and answer questions related to the National Institute of Transport (NIT).")
 
 # Title for the Streamlit app
-st.title("🤖 ChatBot Enhanced Technical Support")
+st.title("🤖 NIT ChatBot Enhanced Technical Support")
 
 # Read NIT information from the text file
 try:
@@ -20,28 +23,22 @@ except FileNotFoundError:
     st.error("NIT information file not found. Please make sure 'nit_info.txt' is present.")
     st.stop()
 
-# Initialize session state for messages
+# Initialize session state for messages if not already present
 if "messages" not in st.session_state:
-    st.session_state["messages"] = []
+    st.session_state["messages"] = [{"role": "assistant", "content": "How can I assist you with NIT information today?"}]
 
-# Container for the chat history
-with st.container():
-    for message in st.session_state.messages:
-        role = message["role"]
-        st.chat_message(role).write(message["content"])
+# Display chat history
+for message in st.session_state["messages"]:
+    with st.chat_message(message["role"]):
+        st.write(message["content"])
 
 # Input field at the bottom
-with st.container():
-    prompt = st.text_input(
-        "💬 Ask something about NIT",
-        placeholder="What courses does NIT offer?",
-        key="input"
-    )
+prompt = st.chat_input("💬 Ask something about NIT", key="input")
 
 # Process the question if provided
 if prompt:
     # Append user message to the chat history
-    st.session_state.messages.append({"role": "user", "content": prompt})
+    st.session_state["messages"].append({"role": "user", "content": prompt})
 
     # Create the prompt for the language model
     full_prompt = f"""{anthropic.HUMAN_PROMPT} you are called ChatBot Enhanced Technical Support and you are permanently a chatbot assistant of National Institute of Transport (NIT) Using this data only:\n\n
@@ -59,7 +56,9 @@ if prompt:
     answer = response.completion
 
     # Append assistant response to the chat history
-    st.session_state.messages.append({"role": "assistant", "content": answer})
+    st.session_state["messages"].append({"role": "assistant", "content": answer})
 
     # Display the assistant's response
-    st.chat_message("assistant").write(answer)
+    with st.chat_message("assistant"):
+        st.write(answer)
+
