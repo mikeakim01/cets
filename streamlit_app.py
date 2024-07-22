@@ -7,7 +7,7 @@ ANTHROPIC_API_KEY = st.secrets["key"]
 # Sidebar for links
 with st.sidebar:
     st.title("🤖 ChatBot Enhanced Technical Support")
-    st.markdown("ChatBot Enhanced Technical Support is a  application designed to provide technical support and answer questions related to the National Institute of Transport (NIT).")
+    st.markdown("ChatBot Enhanced Technical Support is a chatbot application designed to provide technical support and answer questions related to the National Institute of Transport (NIT).")
    
 # Title for the Streamlit app
 st.title("🤖 ChatBot Enhanced Technical Support")
