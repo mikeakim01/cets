@@ -7,6 +7,11 @@ st.set_page_config(page_title="🤖 NIT ChatBot")
 # Set your API key directly here from secrets
 ANTHROPIC_API_KEY = st.secrets["key"]
 
+# Add a loading spinner
+with st.spinner("Loading..."):
+    time.sleep(2)  # Simulate loading time
+
+
 # Sidebar for links
 with st.sidebar:
     st.title("🤖 ChatBot Enhanced Technical Support")
