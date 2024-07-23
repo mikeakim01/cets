@@ -1,63 +1,1478 @@
 National Institute of Transport (NIT)
+Rector
+Eng. Dr. Prosper Mgaya – The Rector
 Overview
-The National Institute of Transport (NIT) is a premier higher education institution dedicated to advancing transportation education, training, research, and consultancy services. Established with a vision to become a center of excellence in the transportation sector, NIT offers a wide range of programs that cater to the needs of the transportation industry in both the public and private sectors.
-
+The National Institute of Transport (NIT) is a distinguished institution dedicated to advancing transportation education, research, and consultancy. Established with the mission to support the transportation sector's development, NIT offers a range of programs and services tailored to the needs of both public and private sector professionals.
+Background
+The National Institute of Transport (NIT) is a Public Higher Learning Institution established by NIT Act Cap 187 with the primary objective of providing Education and Training, conducting Research and Consultancy in the field of Logistics, Management and Transport Technology. The Institute is operating under the Ministry of Transport. It is located on the west of Dar-es-Salaam region, along Mabibo road in Ubungo Light Industrial area, with fully accreditation by the National Council for Technical and Vocational Education and Training (NACTVET) to provide Competence Based Education and Training (CBET) programs at the level of Certificate, Diploma, Degree and Masters (National Technical Awards -NTA level 4 to level 9). The Institute has a total of 421 staff including 270 full-time teaching staff comprising two (2) Professors, 268 Senior Lecturers, Lecturers, Assistant Lecturers, Tutors, Instructors and Technicians as well as 151 Administrative Staff. 
+ 
+The National Institute of Transport has five (5) faculties which include the Faculty of Aviation, Maritime and Petroleum Technology, Transport Engineering and Technology, Logistics and Business Studies and faculty of Informatics and Technical Studies. There are also seven (7) directorates including Academic Support Services, Research, Consultancy and Publications, Students’ Services, Information and Communication Technology, Planning and Development, Finance and Accounts, and Human Resources Management and Administration Directorates. Under each faculty and directorate there are departments, centres and units which altogether contributes to the attainment of NIT's Vision and Mission. 
+ 
+The Institute has more than 16,000 long-programme students, and offers 2 Master’s Degrees, 18 Bachelor's Degrees and 23 Ordinary Diploma courses for 2 years, 3 years, and 4 years, depending on the area of specialization. The Institute offers multiple short courses as well, covering all modes of transport including Air Transport, Rail Transport, Road Transport, Water Transport and Pipeline Transport. The Institute is accredited by the Tanzania Civil Aviation Authority (TCAA) to offer Aircraft Maintenance Engineering Basic Courses, Aircraft Maintenance Engineering Short Courses (i.e., Airframe, Power plant, Avionics (electrical, instruments, radio communication, and navigation, radar), remote compass and direct compass reading), Ab initio cabin crew, Flight operations officer and recurrence courses. It is also accredited by the International Air Transport Association (IATA) to conduct training in Airline Marketing, Airline Customer Service, Airport Operations Fundamentals, and Global Distribution Systems.
 Mission and Vision
 Vision
-To be a leading institution in the provision of quality education, research, and consultancy services in the transportation sector, contributing to sustainable national development.
-
+To be a World-Class Training Institution Committed to Support a Sustainable Transport Sector.
 Mission
-To provide high-quality education and training in transportation and logistics, conduct impactful research, and offer consultancy services that meet the needs of the industry and the community at large.
-
+To Provide High-Quality Education and Training, Research, Consultancy, Innovation and Services in Transport and Allied Fields for Sustainable Socio-Economic Development.
 Programs Offered
-Undergraduate Programs
-Bachelor of Science in Transport Management
-Bachelor of Science in Logistics and Transport Management
-Bachelor of Science in Mechanical Engineering
-Bachelor of Science in Automotive Engineering
-Postgraduate Programs
-Master of Science in Transport Economics and Logistics
-Master of Science in Transport Safety Management
-Master of Science in Transportation Engineering
-Short Courses and Professional Development
-NIT offers various short courses and professional development programs aimed at enhancing the skills and knowledge of professionals in the transportation sector.
+S/N	PROGRAMME NAME	PROGRAMME LEVEL	OPTION
+#1	
+Bachelor’s Degree in Information Technology (BIT)
 
+Bachelor's Degree	Read More
+
+#2	
+Bachelor degree in Education with Mathematics and Information Technology (BEMIT)
+
+Bachelor's Degree	Read More
+
+#3	
+Bachelor’s Degree in Civil and Railway Engineering (BCRE)
+
+Bachelor's Degree	Read More
+
+#4	
+Bachelor’s Degree in Aircraft Maintenance Engineering (BAME)
+
+Bachelor's Degree	Read More
+
+#5	
+Basic Technician Certificate in Shipbuilding and Repairs (BCSR)
+
+Diploma	Read More
+
+#6	
+Basic Technician Certificate in Accounting and Transport Finance (BCATF)
+
+Diploma	Read More
+
+#7	
+Basic Technician Certificate in Mechanical Engineering and Railway Vehicle Technology (BCMERVT)
+
+Diploma	Read More
+
+#8	
+Technician Certificate in Shipping and Port Logistics Operations (CSPLO)
+
+Diploma	Read More
+
+#9	
+Basic Technician Certificate in Shipping and Port Logistics Operations (BCSPLO)
+
+Diploma	Read More
+
+#10	
+Basic Technician Certificate in Electrical and Railway Electrification Engineering (BCEREE)
+
+Diploma	Read More
+
+S/N	PROGRAMME NAME	PROGRAMME LEVEL	OPTION
+#1	
+Basic Technician Certificate in Shipping and Port Logistics Operations (BCSPLO)
+
+Diploma	Read More
+
+#2	
+Technician Certificate in Shipping and Port Logistics Operations (CSPLO)
+
+Diploma	Read More
+
+#3	
+Higher Diploma in Education with Mathematics and Information Technology (HDEMIT)
+
+Diploma	Read More
+
+#4	
+Advanced Drivers’ Course Grade II (for Industrial Vehicle Drivers) (ADCG II - IND)
+
+Short Course	Read More
+
+#5	
+Passengers’ Services Vehicle (PSV)
+
+Short Course	Read More
+
+#6	
+Foreign Languages (Chinese and English) (FL)
+
+Short Course	Read More
+
+#7	
+Cabin Crew Course (Ab-Initio) (ABCC)
+
+Short Course	Read More
+
+#8	
+Bachelor Degree in Computer Science (BCS)
+
+Bachelor's Degree	Read More
+
+#9	
+Bachelor’s Degree in Education with Mathematics and Economics (BEME)
+
+Bachelor's Degree	Read More
+
+#10	
+Ordinary Diploma in Shipping and Port Logistics Operations (DSPLO)
+
+Diploma	Read More
+
+S/N	PROGRAMME NAME	PROGRAMME LEVEL	OPTION
+#1	
+Basic Technician Certificate in Telecommunications Engineering with Railway Signaling (BCTERS)
+
+Diploma	Read More
+
+#2	
+Basic Technician Certificate in Pipework, Oil and Gas Engineering (BCPOGE)
+
+Diploma	Read More
+
+#3	
+Ordinary Diploma in Shipping and Port Logistics Operations (DSPLO)
+
+Diploma	Read More
+
+#4	
+Basic Technician Certificate in Human Resources Management (BCHRM)
+
+Diploma	Read More
+
+#5	
+Technician Certificate in Accounting and Transport Finance (CATF)
+
+Diploma	Read More
+
+#6	
+Basic Technician Certificate in Clearing and Forwarding (BCCF)
+
+Diploma	Read More
+
+#7	
+Higher Diploma in Civil and Railway Engineering (HDCRE)
+
+Diploma	Read More
+
+#8	
+Higher Diploma in Education with Mathematics and Economics (HDEME)
+
+Diploma	Read More
+
+#9	
+Diploma in Aircraft Maintenance Engineering (DAME)
+
+Diploma	Read More
+
+#10	
+Advanced Drivers’ Course Grade II (VIP)
+
+Short Course	Read More
+
+S/N	PROGRAMME NAME	PROGRAMME LEVEL	OPTION
+#1	
+Cabin Crew Qualification Course – Category I. (CCQF)
+
+Short Course	Read More
+
+#2	
+Language Proficiency Courses (LPC)
+
+Short Course	Read More
+
+#3	
+Bachelor Degree in Education with Mathematics and Geography (BEMG)
+
+Bachelor's Degree	Read More
+
+#4	
+Diploma in Civil and Transportation Engineering (DCTE)
+
+Diploma	Read More
+
+#5	
+Basic Technician in Road and Railway Transport Logistics Operations (BCRRTLO)
+
+Diploma	Read More
+
+#6	
+Technician Certificate in Electrical and Railway Electrification Engineering (CEREE)
+
+Diploma	Read More
+
+#7	
+Basic Technician Certificate in Marketing and Public Relations (BCMPR)
+
+Diploma	Read More
+
+#8	
+Ordinary Diploma in Accounting and Transport Finance (DATF)
+
+Diploma	Read More
+
+#9	
+Basic Technician Certificate in Automobile Engineering and Locomotive Technology (BCAELT)
+
+Diploma	Read More
+
+#10	
+Technician Certificate in Shipbuilding and Repairs (CSR)
+
+Diploma	Read More
+
+S/N	PROGRAMME NAME	PROGRAMME LEVEL	OPTION
+#1	
+Higher Diploma in Information Technology (HDIT)
+
+Diploma	Read More
+
+#2	
+Higher Diploma in Education with Mathematics and Geography (HDEMG)
+
+Diploma	Read More
+
+#3	
+Higher Diploma in Shipping and Port Logistics Management (HDSPLM)
+
+Diploma	Read More
+
+#4	
+Advanced Drivers’ Course Grade I (VIP)
+
+Short Course	Read More
+
+#5	
+Cabin Crew Qualification Course – Category II Cabin Crew Qualification Course – Category II (CCQS)
+
+Short Course	Read More
+
+#6	
+Bachelor’s Degree in Shipping and Port Logistics Management (BSPLM)
+
+Bachelor's Degree	Read More
+
+#7	
+Technician Certificate in Civil and Transportation Engineering (CCTE)
+
+Diploma	Read More
+
+#8	
+Technician Certificate in Pipework, Oil and Gas Engineering (CPOGE)
+
+Diploma	Read More
+
+#9	
+Basic Technician Certificate in Procurement and Logistics Management (BCPLM)
+
+Diploma	Read More
+
+#10	
+Technician Certificate in Auto-Electrical and Electronic Engineering (CAEEE)
+
+Diploma	Read More
+
+S/N	PROGRAMME NAME	PROGRAMME LEVEL	OPTION
+#1	
+Technician Certificate in Telecommunications Engineering with Railway Signaling (CTERS)
+
+Diploma	Read More
+
+#2	
+Higher Diploma in Accounting and Transport Finance (HDATF)
+
+Diploma	Read More
+
+#3	
+Higher Diploma in Computer Science (HDCS)
+
+Diploma	Read More
+
+#4	
+Public Service Vehicle (PSV) Drivers Course (PSV)
+
+Short Course	Read More
+
+#5	
+Cabin Crew Qualification Course – Category III (CCQT)
+
+Short Course	Read More
+
+#6	
+Bachelor’s Degree in Accounting and Transport Finance (BATF)
+
+Bachelor's Degree	Read More
+
+#7	
+Technician Certificate in Automobile Engineering and Locomotive Technology (CAELT)
+
+Diploma	Read More
+
+#8	
+Ordinary Diploma in Shipbuilding and Repairs (DSR)
+
+Diploma	Read More
+
+#9	
+Technician Certificate in Road and Railway Transport Logistics Operations (CRRTLO)
+
+Diploma	Read More
+
+#10	
+Basic Technician Certificate in Civil and Transportation Engineering (BCCTE)
+
+Diploma	Read More
+
+S/N	PROGRAMME NAME	PROGRAMME LEVEL	OPTION
+#1	
+Technician Certificate in Automobile Engineering and Locomotive Technology (CAELT)
+
+Diploma	Read More
+
+#2	
+Ordinary Diploma in Shipbuilding and Repairs (DSR)
+
+Diploma	Read More
+
+#3	
+Ordinary Diploma in Records, Archives and Information Management. (DRAIM)
+
+Diploma	Read More
+
+#4	
+Tyre Care and Maintenance (TCM)
+
+Short Course	Read More
+
+#5	
+Technician Certificate in Human Resources Management (CHRM)
+
+Diploma	Read More
+
+#6	
+Ordinary Diploma in Telecommunications Engineering with Railway Signaling (DTERS)
+
+Diploma	Read More
+
+#7	
+Ordinary Diploma in Pipework, Oil and Gas Engineering (DPOGE)
+
+Diploma	Read More
+
+#8	
+Technician Certificate in Logistics and Transport Management (CRRTLM)
+
+Diploma	Read More
+
+#9	
+Technician Certificate Mechanical Engineering with Railway Vehicle Technology (CMERVT)
+
+Diploma	Read More
+
+#10	
+Ordinary Diploma in Library Information Studies. (DLIM)
+
+Diploma	Read More
+
+S/N	PROGRAMME NAME	PROGRAMME LEVEL	OPTION
+#1	
+Vehicle Safety Management and Control (VSMC)
+
+Short Course	Read More
+
+#2	
+Ordinary Diploma in Auto-Electrical and Electronics Engineering (DAEEE)
+
+Diploma	Read More
+
+#3	
+Technician Certificate in Marketing and Public Relations (CMPR)
+
+Diploma	Read More
+
+#4	
+Technician Certificate in Clearing and Forwarding (CCF)
+
+Diploma	Read More
+
+#5	
+Ordinary Diploma In Information Technology (DIT)
+
+Diploma	Read More
+
+#6	
+Higher Diploma in Naval Architecture and Marine Engineering (HDNAME)
+
+Diploma	Read More
+
+#7	
+Heavy Goods Vehicles (HGV) Course (HGV)
+
+Short Course	Read More
+
+#8	
+Bachelor’s Degree in Naval Architecture and Marine Engineering (BNAME)
+
+Bachelor's Degree	Read More
+
+#9	
+Technician Certificate in Procurement and Logistics Management (CPLM)
+
+Diploma	Read More
+
+#10	
+Ordinary Diploma in Automobile Engineering and Locomotive Technology (DAELT)
+
+Diploma	Read More
+
+S/N	PROGRAMME NAME	PROGRAMME LEVEL	OPTION
+#1	
+Technician Certificate in Records, Archives and Information Management (CRAIM)
+
+Diploma	Read More
+
+#2	
+Defensive Driving Training (DDT)
+
+Short Course	Read More
+
+#3	
+Ordinary Diploma in Business Administration (DBA)
+
+Diploma	Read More
+
+#4	
+Ordinary Diploma in Logistics and Transport Management (DLTM)
+
+Diploma	Read More
+
+#5	
+Ordinary Diploma in Mechanical Engineering with Railway Vehicle Technology (DMERVT)
+
+Diploma	Read More
+
+#6	
+Technician Certificate in Library and Information Studies (CLIM)
+
+Diploma	Read More
+
+#7	
+Senior Drivers’ Course (SDC)
+
+Short Course	Read More
+
+#8	
+Ordinary Diploma in Clearing and Forwarding (DCF)
+
+Diploma	Read More
+
+#9	
+Ordinary Diploma in Human Resources Management (DHRM)
+
+Diploma	Read More
+
+#10	
+Higher Diploma in Automobile Engineering (HDAE)
+
+Diploma	Read More
+
+S/N	PROGRAMME NAME	PROGRAMME LEVEL	OPTION
+#1	
+Technician Certificate in Information Technology (DIT)
+
+Diploma	Read More
+
+#2	
+Forklift Operator Training (FOT)
+
+Short Course	Read More
+
+#3	
+Ordinary Diploma in Road and Railway Transport Logistics Operations (DRRTLO)
+
+Diploma	Read More
+
+#4	
+Ordinary Diploma in Marketing and Public Relations (DMPR)
+
+Diploma	Read More
+
+#5	
+Higher Diploma in Mechanical Engineering (HDME)
+
+Diploma	Read More
+
+#6	
+Driving Examiners Course (DEC)
+
+Short Course	Read More
+
+#7	
+Bachelor's Degree in Automobile Engineering (BAE)
+
+Bachelor's Degree	Read More
+
+#8	
+Basic Technician Certificate in Records, Archives and Information Management (BCRAIM)
+
+Diploma	Read More
+
+#9	
+Ordinary Diploma in Procurement and Logistics Management (DPLM)
+
+Diploma	Read More
+
+#10	
+Bus Rapid Transport Driving Course (BRT)
+
+Short Course	Read More
+
+S/N	PROGRAMME NAME	PROGRAMME LEVEL	OPTION
+#1	
+Bachelor’s Degree in Mechanical Engineering (BME)
+
+Bachelor's Degree	Read More
+
+#2	
+Basic Technician Certificate in Library and Information Studies (BCLIM)
+
+Diploma	Read More
+
+#3	
+Higher Diploma in Logistics and Transport Management (HDLTM)
+
+Diploma	Read More
+
+#4	
+Higher Diploma in Procurement and Logistics Management (HDPLM)
+
+Diploma	Read More
+
+#5	
+Airport Vehicle Driving and Operation Courses (AVD)
+
+Short Course	Read More
+
+#6	
+Higher Diploma in Human Resource Management (HDHRM)
+
+Diploma	Read More
+
+#7	
+Higher Diploma in Road and Railway Transport Logistics Management (HDRRTLM)
+
+Diploma	Read More
+
+#8	
+Postgraduate Diploma in Transportation Engineering (PGDTE)
+
+Postgraduate Diploma	Read More
+
+#9	
+Bus Passengers Customers Service (BPCS)
+
+Short Course	Read More
+
+#10	
+Bachelor’s Degree in Logistics and Transport Management (BLTM)
+
+Bachelor's Degree	Read More
+
+S/N	PROGRAMME NAME	PROGRAMME LEVEL	OPTION
+#1	
+Higher Diploma in Marketing and Public Relations (HDMPR)
+
+Diploma	Read More
+
+#2	
+Master of Mechanical Engineering with Transportation Machinery (MMETM)
+
+Masters	Read More
+
+#3	
+Higher Diploma in Business Administration (HDBA)
+
+Diploma	Read More
+
+#4	
+Engine Overhaul (Petrol and Diesel) (EA)
+
+Short Course	Read More
+
+#5	
+Bachelor's Degree in Procurement and Logistics Management (BPLM)
+
+Bachelor's Degree	Read More
+
+#6	
+Bachelor’s Degree in Road and Railway Transport Logistics Management (BDRRTLM)
+
+Bachelor's Degree	Read More
+
+#7	
+EFI (Electronic fuel Injection) (EFI)
+
+Short Course	Read More
+
+#8	
+Bachelor's Degree in Human Resource Management (BHRM)
+
+Bachelor's Degree	Read More
+
+#9	
+Postgraduate Diploma in Transport and Tourism Management (PGDTTM)
+
+Postgraduate Diploma	Read More
+
+#10	
+Postgraduate Diploma in Logistics and Transport Management (PDLTM)
+
+Postgraduate Diploma	Read More
+
+S/N	PROGRAMME NAME	PROGRAMME LEVEL	OPTION
+#1	
+Fuel Control and Safety Tools Usage (FCSTU)
+
+Short Course	Read More
+
+#2	
+Bachelor's Degree in Marketing and Public Relations (BMPR)
+
+Bachelor's Degree	Read More
+
+#3	
+Postgraduate Diploma in Road Transport Safety Management (PGDRTSM)
+
+Postgraduate Diploma	Read More
+
+#4	
+Vehicle Inspection (VI)
+
+Short Course	Read More
+
+#5	
+Bachelor's Degree in Business Administration (BBA)
+
+Bachelor's Degree	Read More
+
+#6	
+Postgraduate Diploma in Rail Transport Management (PGDRTM)
+
+Postgraduate Diploma	Read More
+
+#7	
+Postgraduate Diploma in Shipping and Port Management (PGDSPM)
+
+Postgraduate Diploma	Read More
+
+#8	
+Postgraduate Diploma in Procurement and Logistics Management (PGDPLM)
+
+Postgraduate Diploma	Read More
+
+#9	
+Postgraduate Diploma in Transport Economics (PGDTE)
+
+Postgraduate Diploma	Read More
+
+#10	
+Master of Logistics and Transport Management (MLTM)
+
+Masters	Read More
+
+
+Fee Structure
+Students pursuing an Ordinary Diploma (NTA Level 4-6) programmes may join the National Institute of Transport (NIT) under Government or private sponsorship.
+ 
+Students pursuing Bachelor’s Degrees, Postgraduate, and Master's Degree programmes are encouraged to apply for a scholarship or loan from the Higher Education Students Loan Board (HESLB) www.heslb.go.tz. Fee structures for Government and privately sponsored students are shown in the following links:
+
+a) Aviation Professional Courses Applicants......Download Here
+b) Ordinary Diploma Applicants.....Download Here
+c) Bachelor's Degree Applicants.....Download Here
+d) Postgraduate Diploma Applicants.....Download Here
+e) Master's Degree Applicants.....Download Here
 Research and Consultancy
-NIT is actively involved in research and consultancy projects that address critical issues in the transportation industry. The institution collaborates with government agencies, private sector organizations, and international bodies to conduct research that informs policy and improves transportation systems.
-
+NIT is a hub for research and consultancy in transportation, with a focus on solving real-world challenges and informing policy. The institute collaborates with various stakeholders to drive innovation and improvement in the transportation sector.
 Key Research Areas
-Transportation Planning and Policy
-Traffic Safety and Management
-Logistics and Supply Chain Management
-Environmental Impact of Transportation
-Intelligent Transport Systems
+•	Transportation Planning and Policy: Examines the planning and regulatory aspects of transportation systems.
+•	Traffic Safety and Management: Investigates methods to enhance road safety and traffic flow.
+•	Logistics and Supply Chain Management: Focuses on optimizing logistics and supply chain operations.
+•	Environmental Impact of Transportation: Studies the environmental effects of transportation activities and develops sustainable practices.
+•	Intelligent Transport Systems: Researches the implementation of technology to improve transportation efficiency and safety.
 Facilities and Resources
-NIT boasts state-of-the-art facilities and resources that support its educational and research activities. These include:
-
-Modern classrooms and lecture halls
-Well-equipped laboratories for automotive and mechanical engineering
-Computer labs with advanced software for transport modeling and simulation
-A comprehensive library with a vast collection of books, journals, and digital resources
-On-campus accommodation for students
+NIT is equipped with modern facilities to support its educational and research activities, including:
+•	Classrooms and Lecture Halls: Designed to provide a conducive learning environment.
+•	Automotive and Mechanical Engineering Laboratories: Equipped with advanced tools and machinery for hands-on learning and research.
+•	Computer Labs: Featuring the latest software for transport modeling, simulation, and data analysis.
+•	Library: A comprehensive resource center with access to books, journals, and digital databases.
+•	Student Accommodation: On-campus housing options to support students from various regions.
+Governance Structure
+NIT is governed by a Board of Trustees, which oversees the strategic direction and policy formulation of the institution. The day-to-day operations are managed by the Director and supported by a team of faculty members and administrative staff.
+Notable Achievements
+•	Accreditation and Recognition: NIT's programs are accredited by national and international bodies, ensuring high standards of education.
+•	Research Publications: Faculty and researchers have published numerous papers in reputable journals, contributing to the global body of knowledge in transportation.
+•	Awards and Honors: NIT has received several awards for excellence in education, research, and community service.
+Partnerships and Collaborations
+NIT maintains strong partnerships with various national and international institutions, government agencies, and industry organizations. These collaborations enhance the institute's research capabilities, provide opportunities for student exchanges, and support joint projects.
+Key Partners
+•	Government Agencies: Collaborates with ministries and regulatory bodies on transportation policies and projects.
+•	International Institutions: Partners with universities and research centers for joint research and academic exchanges.
+•	Industry Organizations: Works with private sector companies to address industry needs and provide consultancy services.
 Community Engagement and Outreach
-The National Institute of Transport is committed to engaging with the community and contributing to societal development. NIT organizes various outreach programs, including:
+NIT is committed to community service and public engagement, organizing events and initiatives to promote transportation awareness and safety. Key activities include:
+•	Public Lectures and Workshops: Provides platforms for experts to discuss transportation issues and solutions.
+•	Road Safety Campaigns: Conducts campaigns to raise awareness about road safety and best practices.
+•	Educational Outreach: Engages with local schools and communities to promote interest in transportation careers.
+Future Plans
+NIT is focused on expanding its impact and enhancing its offerings. Future plans include:
+•	Program Expansion: Introducing new programs aNational Institute of Transport (NIT)
+Rector
+Eng. Dr. Prosper Mgaya – The Rector
+Overview
+The National Institute of Transport (NIT) is a distinguished institution dedicated to advancing transportation education, research, and consultancy. Established with the mission to support the transportation sector's development, NIT offers a range of programs and services tailored to the needs of both public and private sector professionals.
+Background
+The National Institute of Transport (NIT) is a Public Higher Learning Institution established by NIT Act Cap 187 with the primary objective of providing Education and Training, conducting Research and Consultancy in the field of Logistics, Management and Transport Technology. The Institute is operating under the Ministry of Transport. It is located on the west of Dar-es-Salaam region, along Mabibo road in Ubungo Light Industrial area, with fully accreditation by the National Council for Technical and Vocational Education and Training (NACTVET) to provide Competence Based Education and Training (CBET) programs at the level of Certificate, Diploma, Degree and Masters (National Technical Awards -NTA level 4 to level 9). The Institute has a total of 421 staff including 270 full-time teaching staff comprising two (2) Professors, 268 Senior Lecturers, Lecturers, Assistant Lecturers, Tutors, Instructors and Technicians as well as 151 Administrative Staff. 
+ 
+The National Institute of Transport has five (5) faculties which include the Faculty of Aviation, Maritime and Petroleum Technology, Transport Engineering and Technology, Logistics and Business Studies and faculty of Informatics and Technical Studies. There are also seven (7) directorates including Academic Support Services, Research, Consultancy and Publications, Students’ Services, Information and Communication Technology, Planning and Development, Finance and Accounts, and Human Resources Management and Administration Directorates. Under each faculty and directorate there are departments, centres and units which altogether contributes to the attainment of NIT's Vision and Mission. 
+ 
+The Institute has more than 16,000 long-programme students, and offers 2 Master’s Degrees, 18 Bachelor's Degrees and 23 Ordinary Diploma courses for 2 years, 3 years, and 4 years, depending on the area of specialization. The Institute offers multiple short courses as well, covering all modes of transport including Air Transport, Rail Transport, Road Transport, Water Transport and Pipeline Transport. The Institute is accredited by the Tanzania Civil Aviation Authority (TCAA) to offer Aircraft Maintenance Engineering Basic Courses, Aircraft Maintenance Engineering Short Courses (i.e., Airframe, Power plant, Avionics (electrical, instruments, radio communication, and navigation, radar), remote compass and direct compass reading), Ab initio cabin crew, Flight operations officer and recurrence courses. It is also accredited by the International Air Transport Association (IATA) to conduct training in Airline Marketing, Airline Customer Service, Airport Operations Fundamentals, and Global Distribution Systems.
+Mission and Vision
+Vision
+To be a World-Class Training Institution Committed to Support a Sustainable Transport Sector.
+Mission
+To Provide High-Quality Education and Training, Research, Consultancy, Innovation and Services in Transport and Allied Fields for Sustainable Socio-Economic Development.
+Programs Offered
+S/N	PROGRAMME NAME	PROGRAMME LEVEL	OPTION
+#1	
+Bachelor’s Degree in Information Technology (BIT)
 
-Public lectures and seminars on transportation issues
-Road safety campaigns
-Community service projects
-Partnerships with local schools and colleges to promote transportation education
-International Collaborations
-NIT has established partnerships with several international institutions and organizations to enhance its academic and research capabilities. These collaborations include student and staff exchange programs, joint research projects, and participation in international conferences and workshops.
+Bachelor's Degree	Read More
 
+#2	
+Bachelor degree in Education with Mathematics and Information Technology (BEMIT)
+
+Bachelor's Degree	Read More
+
+#3	
+Bachelor’s Degree in Civil and Railway Engineering (BCRE)
+
+Bachelor's Degree	Read More
+
+#4	
+Bachelor’s Degree in Aircraft Maintenance Engineering (BAME)
+
+Bachelor's Degree	Read More
+
+#5	
+Basic Technician Certificate in Shipbuilding and Repairs (BCSR)
+
+Diploma	Read More
+
+#6	
+Basic Technician Certificate in Accounting and Transport Finance (BCATF)
+
+Diploma	Read More
+
+#7	
+Basic Technician Certificate in Mechanical Engineering and Railway Vehicle Technology (BCMERVT)
+
+Diploma	Read More
+
+#8	
+Technician Certificate in Shipping and Port Logistics Operations (CSPLO)
+
+Diploma	Read More
+
+#9	
+Basic Technician Certificate in Shipping and Port Logistics Operations (BCSPLO)
+
+Diploma	Read More
+
+#10	
+Basic Technician Certificate in Electrical and Railway Electrification Engineering (BCEREE)
+
+Diploma	Read More
+
+S/N	PROGRAMME NAME	PROGRAMME LEVEL	OPTION
+#1	
+Basic Technician Certificate in Shipping and Port Logistics Operations (BCSPLO)
+
+Diploma	Read More
+
+#2	
+Technician Certificate in Shipping and Port Logistics Operations (CSPLO)
+
+Diploma	Read More
+
+#3	
+Higher Diploma in Education with Mathematics and Information Technology (HDEMIT)
+
+Diploma	Read More
+
+#4	
+Advanced Drivers’ Course Grade II (for Industrial Vehicle Drivers) (ADCG II - IND)
+
+Short Course	Read More
+
+#5	
+Passengers’ Services Vehicle (PSV)
+
+Short Course	Read More
+
+#6	
+Foreign Languages (Chinese and English) (FL)
+
+Short Course	Read More
+
+#7	
+Cabin Crew Course (Ab-Initio) (ABCC)
+
+Short Course	Read More
+
+#8	
+Bachelor Degree in Computer Science (BCS)
+
+Bachelor's Degree	Read More
+
+#9	
+Bachelor’s Degree in Education with Mathematics and Economics (BEME)
+
+Bachelor's Degree	Read More
+
+#10	
+Ordinary Diploma in Shipping and Port Logistics Operations (DSPLO)
+
+Diploma	Read More
+
+S/N	PROGRAMME NAME	PROGRAMME LEVEL	OPTION
+#1	
+Basic Technician Certificate in Telecommunications Engineering with Railway Signaling (BCTERS)
+
+Diploma	Read More
+
+#2	
+Basic Technician Certificate in Pipework, Oil and Gas Engineering (BCPOGE)
+
+Diploma	Read More
+
+#3	
+Ordinary Diploma in Shipping and Port Logistics Operations (DSPLO)
+
+Diploma	Read More
+
+#4	
+Basic Technician Certificate in Human Resources Management (BCHRM)
+
+Diploma	Read More
+
+#5	
+Technician Certificate in Accounting and Transport Finance (CATF)
+
+Diploma	Read More
+
+#6	
+Basic Technician Certificate in Clearing and Forwarding (BCCF)
+
+Diploma	Read More
+
+#7	
+Higher Diploma in Civil and Railway Engineering (HDCRE)
+
+Diploma	Read More
+
+#8	
+Higher Diploma in Education with Mathematics and Economics (HDEME)
+
+Diploma	Read More
+
+#9	
+Diploma in Aircraft Maintenance Engineering (DAME)
+
+Diploma	Read More
+
+#10	
+Advanced Drivers’ Course Grade II (VIP)
+
+Short Course	Read More
+
+S/N	PROGRAMME NAME	PROGRAMME LEVEL	OPTION
+#1	
+Cabin Crew Qualification Course – Category I. (CCQF)
+
+Short Course	Read More
+
+#2	
+Language Proficiency Courses (LPC)
+
+Short Course	Read More
+
+#3	
+Bachelor Degree in Education with Mathematics and Geography (BEMG)
+
+Bachelor's Degree	Read More
+
+#4	
+Diploma in Civil and Transportation Engineering (DCTE)
+
+Diploma	Read More
+
+#5	
+Basic Technician in Road and Railway Transport Logistics Operations (BCRRTLO)
+
+Diploma	Read More
+
+#6	
+Technician Certificate in Electrical and Railway Electrification Engineering (CEREE)
+
+Diploma	Read More
+
+#7	
+Basic Technician Certificate in Marketing and Public Relations (BCMPR)
+
+Diploma	Read More
+
+#8	
+Ordinary Diploma in Accounting and Transport Finance (DATF)
+
+Diploma	Read More
+
+#9	
+Basic Technician Certificate in Automobile Engineering and Locomotive Technology (BCAELT)
+
+Diploma	Read More
+
+#10	
+Technician Certificate in Shipbuilding and Repairs (CSR)
+
+Diploma	Read More
+
+S/N	PROGRAMME NAME	PROGRAMME LEVEL	OPTION
+#1	
+Higher Diploma in Information Technology (HDIT)
+
+Diploma	Read More
+
+#2	
+Higher Diploma in Education with Mathematics and Geography (HDEMG)
+
+Diploma	Read More
+
+#3	
+Higher Diploma in Shipping and Port Logistics Management (HDSPLM)
+
+Diploma	Read More
+
+#4	
+Advanced Drivers’ Course Grade I (VIP)
+
+Short Course	Read More
+
+#5	
+Cabin Crew Qualification Course – Category II Cabin Crew Qualification Course – Category II (CCQS)
+
+Short Course	Read More
+
+#6	
+Bachelor’s Degree in Shipping and Port Logistics Management (BSPLM)
+
+Bachelor's Degree	Read More
+
+#7	
+Technician Certificate in Civil and Transportation Engineering (CCTE)
+
+Diploma	Read More
+
+#8	
+Technician Certificate in Pipework, Oil and Gas Engineering (CPOGE)
+
+Diploma	Read More
+
+#9	
+Basic Technician Certificate in Procurement and Logistics Management (BCPLM)
+
+Diploma	Read More
+
+#10	
+Technician Certificate in Auto-Electrical and Electronic Engineering (CAEEE)
+
+Diploma	Read More
+
+S/N	PROGRAMME NAME	PROGRAMME LEVEL	OPTION
+#1	
+Technician Certificate in Telecommunications Engineering with Railway Signaling (CTERS)
+
+Diploma	Read More
+
+#2	
+Higher Diploma in Accounting and Transport Finance (HDATF)
+
+Diploma	Read More
+
+#3	
+Higher Diploma in Computer Science (HDCS)
+
+Diploma	Read More
+
+#4	
+Public Service Vehicle (PSV) Drivers Course (PSV)
+
+Short Course	Read More
+
+#5	
+Cabin Crew Qualification Course – Category III (CCQT)
+
+Short Course	Read More
+
+#6	
+Bachelor’s Degree in Accounting and Transport Finance (BATF)
+
+Bachelor's Degree	Read More
+
+#7	
+Technician Certificate in Automobile Engineering and Locomotive Technology (CAELT)
+
+Diploma	Read More
+
+#8	
+Ordinary Diploma in Shipbuilding and Repairs (DSR)
+
+Diploma	Read More
+
+#9	
+Technician Certificate in Road and Railway Transport Logistics Operations (CRRTLO)
+
+Diploma	Read More
+
+#10	
+Basic Technician Certificate in Civil and Transportation Engineering (BCCTE)
+
+Diploma	Read More
+
+S/N	PROGRAMME NAME	PROGRAMME LEVEL	OPTION
+#1	
+Technician Certificate in Automobile Engineering and Locomotive Technology (CAELT)
+
+Diploma	Read More
+
+#2	
+Ordinary Diploma in Shipbuilding and Repairs (DSR)
+
+Diploma	Read More
+
+#3	
+Ordinary Diploma in Records, Archives and Information Management. (DRAIM)
+
+Diploma	Read More
+
+#4	
+Tyre Care and Maintenance (TCM)
+
+Short Course	Read More
+
+#5	
+Technician Certificate in Human Resources Management (CHRM)
+
+Diploma	Read More
+
+#6	
+Ordinary Diploma in Telecommunications Engineering with Railway Signaling (DTERS)
+
+Diploma	Read More
+
+#7	
+Ordinary Diploma in Pipework, Oil and Gas Engineering (DPOGE)
+
+Diploma	Read More
+
+#8	
+Technician Certificate in Logistics and Transport Management (CRRTLM)
+
+Diploma	Read More
+
+#9	
+Technician Certificate Mechanical Engineering with Railway Vehicle Technology (CMERVT)
+
+Diploma	Read More
+
+#10	
+Ordinary Diploma in Library Information Studies. (DLIM)
+
+Diploma	Read More
+
+S/N	PROGRAMME NAME	PROGRAMME LEVEL	OPTION
+#1	
+Vehicle Safety Management and Control (VSMC)
+
+Short Course	Read More
+
+#2	
+Ordinary Diploma in Auto-Electrical and Electronics Engineering (DAEEE)
+
+Diploma	Read More
+
+#3	
+Technician Certificate in Marketing and Public Relations (CMPR)
+
+Diploma	Read More
+
+#4	
+Technician Certificate in Clearing and Forwarding (CCF)
+
+Diploma	Read More
+
+#5	
+Ordinary Diploma In Information Technology (DIT)
+
+Diploma	Read More
+
+#6	
+Higher Diploma in Naval Architecture and Marine Engineering (HDNAME)
+
+Diploma	Read More
+
+#7	
+Heavy Goods Vehicles (HGV) Course (HGV)
+
+Short Course	Read More
+
+#8	
+Bachelor’s Degree in Naval Architecture and Marine Engineering (BNAME)
+
+Bachelor's Degree	Read More
+
+#9	
+Technician Certificate in Procurement and Logistics Management (CPLM)
+
+Diploma	Read More
+
+#10	
+Ordinary Diploma in Automobile Engineering and Locomotive Technology (DAELT)
+
+Diploma	Read More
+
+S/N	PROGRAMME NAME	PROGRAMME LEVEL	OPTION
+#1	
+Technician Certificate in Records, Archives and Information Management (CRAIM)
+
+Diploma	Read More
+
+#2	
+Defensive Driving Training (DDT)
+
+Short Course	Read More
+
+#3	
+Ordinary Diploma in Business Administration (DBA)
+
+Diploma	Read More
+
+#4	
+Ordinary Diploma in Logistics and Transport Management (DLTM)
+
+Diploma	Read More
+
+#5	
+Ordinary Diploma in Mechanical Engineering with Railway Vehicle Technology (DMERVT)
+
+Diploma	Read More
+
+#6	
+Technician Certificate in Library and Information Studies (CLIM)
+
+Diploma	Read More
+
+#7	
+Senior Drivers’ Course (SDC)
+
+Short Course	Read More
+
+#8	
+Ordinary Diploma in Clearing and Forwarding (DCF)
+
+Diploma	Read More
+
+#9	
+Ordinary Diploma in Human Resources Management (DHRM)
+
+Diploma	Read More
+
+#10	
+Higher Diploma in Automobile Engineering (HDAE)
+
+Diploma	Read More
+
+S/N	PROGRAMME NAME	PROGRAMME LEVEL	OPTION
+#1	
+Technician Certificate in Information Technology (DIT)
+
+Diploma	Read More
+
+#2	
+Forklift Operator Training (FOT)
+
+Short Course	Read More
+
+#3	
+Ordinary Diploma in Road and Railway Transport Logistics Operations (DRRTLO)
+
+Diploma	Read More
+
+#4	
+Ordinary Diploma in Marketing and Public Relations (DMPR)
+
+Diploma	Read More
+
+#5	
+Higher Diploma in Mechanical Engineering (HDME)
+
+Diploma	Read More
+
+#6	
+Driving Examiners Course (DEC)
+
+Short Course	Read More
+
+#7	
+Bachelor's Degree in Automobile Engineering (BAE)
+
+Bachelor's Degree	Read More
+
+#8	
+Basic Technician Certificate in Records, Archives and Information Management (BCRAIM)
+
+Diploma	Read More
+
+#9	
+Ordinary Diploma in Procurement and Logistics Management (DPLM)
+
+Diploma	Read More
+
+#10	
+Bus Rapid Transport Driving Course (BRT)
+
+Short Course	Read More
+
+S/N	PROGRAMME NAME	PROGRAMME LEVEL	OPTION
+#1	
+Bachelor’s Degree in Mechanical Engineering (BME)
+
+Bachelor's Degree	Read More
+
+#2	
+Basic Technician Certificate in Library and Information Studies (BCLIM)
+
+Diploma	Read More
+
+#3	
+Higher Diploma in Logistics and Transport Management (HDLTM)
+
+Diploma	Read More
+
+#4	
+Higher Diploma in Procurement and Logistics Management (HDPLM)
+
+Diploma	Read More
+
+#5	
+Airport Vehicle Driving and Operation Courses (AVD)
+
+Short Course	Read More
+
+#6	
+Higher Diploma in Human Resource Management (HDHRM)
+
+Diploma	Read More
+
+#7	
+Higher Diploma in Road and Railway Transport Logistics Management (HDRRTLM)
+
+Diploma	Read More
+
+#8	
+Postgraduate Diploma in Transportation Engineering (PGDTE)
+
+Postgraduate Diploma	Read More
+
+#9	
+Bus Passengers Customers Service (BPCS)
+
+Short Course	Read More
+
+#10	
+Bachelor’s Degree in Logistics and Transport Management (BLTM)
+
+Bachelor's Degree	Read More
+
+S/N	PROGRAMME NAME	PROGRAMME LEVEL	OPTION
+#1	
+Higher Diploma in Marketing and Public Relations (HDMPR)
+
+Diploma	Read More
+
+#2	
+Master of Mechanical Engineering with Transportation Machinery (MMETM)
+
+Masters	Read More
+
+#3	
+Higher Diploma in Business Administration (HDBA)
+
+Diploma	Read More
+
+#4	
+Engine Overhaul (Petrol and Diesel) (EA)
+
+Short Course	Read More
+
+#5	
+Bachelor's Degree in Procurement and Logistics Management (BPLM)
+
+Bachelor's Degree	Read More
+
+#6	
+Bachelor’s Degree in Road and Railway Transport Logistics Management (BDRRTLM)
+
+Bachelor's Degree	Read More
+
+#7	
+EFI (Electronic fuel Injection) (EFI)
+
+Short Course	Read More
+
+#8	
+Bachelor's Degree in Human Resource Management (BHRM)
+
+Bachelor's Degree	Read More
+
+#9	
+Postgraduate Diploma in Transport and Tourism Management (PGDTTM)
+
+Postgraduate Diploma	Read More
+
+#10	
+Postgraduate Diploma in Logistics and Transport Management (PDLTM)
+
+Postgraduate Diploma	Read More
+
+S/N	PROGRAMME NAME	PROGRAMME LEVEL	OPTION
+#1	
+Fuel Control and Safety Tools Usage (FCSTU)
+
+Short Course	Read More
+
+#2	
+Bachelor's Degree in Marketing and Public Relations (BMPR)
+
+Bachelor's Degree	Read More
+
+#3	
+Postgraduate Diploma in Road Transport Safety Management (PGDRTSM)
+
+Postgraduate Diploma	Read More
+
+#4	
+Vehicle Inspection (VI)
+
+Short Course	Read More
+
+#5	
+Bachelor's Degree in Business Administration (BBA)
+
+Bachelor's Degree	Read More
+
+#6	
+Postgraduate Diploma in Rail Transport Management (PGDRTM)
+
+Postgraduate Diploma	Read More
+
+#7	
+Postgraduate Diploma in Shipping and Port Management (PGDSPM)
+
+Postgraduate Diploma	Read More
+
+#8	
+Postgraduate Diploma in Procurement and Logistics Management (PGDPLM)
+
+Postgraduate Diploma	Read More
+
+#9	
+Postgraduate Diploma in Transport Economics (PGDTE)
+
+Postgraduate Diploma	Read More
+
+#10	
+Master of Logistics and Transport Management (MLTM)
+
+Masters	Read More
+
+
+Fee Structure
+Students pursuing an Ordinary Diploma (NTA Level 4-6) programmes may join the National Institute of Transport (NIT) under Government or private sponsorship.
+ 
+Students pursuing Bachelor’s Degrees, Postgraduate, and Master's Degree programmes are encouraged to apply for a scholarship or loan from the Higher Education Students Loan Board (HESLB) www.heslb.go.tz. Fee structures for Government and privately sponsored students are shown in the following links:
+
+a) Aviation Professional Courses Applicants......Download Here
+b) Ordinary Diploma Applicants.....Download Here
+c) Bachelor's Degree Applicants.....Download Here
+d) Postgraduate Diploma Applicants.....Download Here
+e) Master's Degree Applicants.....Download Here
+Research and Consultancy
+NIT is a hub for research and consultancy in transportation, with a focus on solving real-world challenges and informing policy. The institute collaborates with various stakeholders to drive innovation and improvement in the transportation sector.
+Key Research Areas
+•	Transportation Planning and Policy: Examines the planning and regulatory aspects of transportation systems.
+•	Traffic Safety and Management: Investigates methods to enhance road safety and traffic flow.
+•	Logistics and Supply Chain Management: Focuses on optimizing logistics and supply chain operations.
+•	Environmental Impact of Transportation: Studies the environmental effects of transportation activities and develops sustainable practices.
+•	Intelligent Transport Systems: Researches the implementation of technology to improve transportation efficiency and safety.
+Facilities and Resources
+NIT is equipped with modern facilities to support its educational and research activities, including:
+•	Classrooms and Lecture Halls: Designed to provide a conducive learning environment.
+•	Automotive and Mechanical Engineering Laboratories: Equipped with advanced tools and machinery for hands-on learning and research.
+•	Computer Labs: Featuring the latest software for transport modeling, simulation, and data analysis.
+•	Library: A comprehensive resource center with access to books, journals, and digital databases.
+•	Student Accommodation: On-campus housing options to support students from various regions.
+Governance Structure
+NIT is governed by a Board of Trustees, which oversees the strategic direction and policy formulation of the institution. The day-to-day operations are managed by the Director and supported by a team of faculty members and administrative staff.
+Notable Achievements
+•	Accreditation and Recognition: NIT's programs are accredited by national and international bodies, ensuring high standards of education.
+•	Research Publications: Faculty and researchers have published numerous papers in reputable journals, contributing to the global body of knowledge in transportation.
+•	Awards and Honors: NIT has received several awards for excellence in education, research, and community service.
+Partnerships and Collaborations
+NIT maintains strong partnerships with various national and international institutions, government agencies, and industry organizations. These collaborations enhance the institute's research capabilities, provide opportunities for student exchanges, and support joint projects.
+Key Partners
+•	Government Agencies: Collaborates with ministries and regulatory bodies on transportation policies and projects.
+•	International Institutions: Partners with universities and research centers for joint research and academic exchanges.
+•	Industry Organizations: Works with private sector companies to address industry needs and provide consultancy services.
+Community Engagement and Outreach
+NIT is committed to community service and public engagement, organizing events and initiatives to promote transportation awareness and safety. Key activities include:
+•	Public Lectures and Workshops: Provides platforms for experts to discuss transportation issues and solutions.
+•	Road Safety Campaigns: Conducts campaigns to raise awareness about road safety and best practices.
+•	Educational Outreach: Engages with local schools and communities to promote interest in transportation careers.
+Future Plans
+NIT is focused on expanding its impact and enhancing its offerings. Future plans include:
+•	Program Expansion: Introducing new programs and specializations to address emerging trends in transportation.
+•	Research Initiatives: Launching new research projects on innovative transportation technologies and sustainability.
+•	Infrastructure Development: Upgrading facilities and resources to support advanced research and improve student learning experiences.
 Contact Information
 For more information about the National Institute of Transport, please contact:
-
 National Institute of Transport
-P.O. Box 705
-Dar es Salaam, Tanzania
-Phone: +255 22 2400 175
-Email: info@nit.ac.tz
+P.O. Box 705 .Dar es Salaam, Tanzania
+Mabibo, Ubungo
+Phone: tel:+255222213701
+Email: rector@nit.ac.tz
 Website: www.nit.ac.tz
-
 Conclusion
-The National Institute of Transport is a distinguished institution that plays a crucial role in the development of the transportation sector in Tanzania and beyond. With its comprehensive programs, state-of-the-art facilities, and commitment to research and community engagement, NIT is poised to continue making significant contributions to the field of transportation.
+The National Institute of Transport is a leading institution in transportation education, research, and consultancy. With its comprehensive programs, advanced facilities, and commitment to innovation and community engagement, NIT plays a vital role in advancing the transportation sector and supporting national development.
+
+nd specializations to address emerging trends in transportation.
+•	Research Initiatives: Launching new research projects on innovative transportation technologies and sustainability.
+•	Infrastructure Development: Upgrading facilities and resources to support advanced research and improve student learning experiences.
+Contact Information
+For more information about the National Institute of Transport, please contact:
+National Institute of Transport
+P.O. Box 705 .Dar es Salaam, Tanzania
+Mabibo, Ubungo
+Phone: tel:+255222213701
+Email: rector@nit.ac.tz
+Website: www.nit.ac.tz
+Conclusion
+The National Institute of Transport is a leading institution in transportation education, research, and consultancy. With its comprehensive programs, advanced facilities, and commitment to innovation and community engagement, NIT plays a vital role in advancing the transportation sector and supporting national development.
+
