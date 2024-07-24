@@ -2,7 +2,7 @@ import streamlit as st
 import anthropic
 
 # App title
-st.set_page_config(page_title="🤖 NIT ChatBot", initial_sidebar_state="collapsed")
+st.set_page_config(page_title="🤖 NIT ChatBot)
 
 # Set your API key directly here from secrets
 ANTHROPIC_API_KEY = st.secrets["key"]
@@ -36,7 +36,7 @@ except FileNotFoundError:
 
 # Initialize session state for messages if not already present
 if "messages" not in st.session_state:
-    st.session_state["messages"] = [{"role": "assistant", "content": "How can I assist you today?"}]
+    st.session_state["messages"] = [{"role": "assistant", "content": "Hello! How can I assist you with NIT today?"}]
 
 # Display chat history
 for message in st.session_state["messages"]:
@@ -52,7 +52,7 @@ if prompt:
     st.session_state["messages"].append({"role": "user", "content": prompt})
 
     # Create the prompt for the language model
-    full_prompt = f"""{anthropic.HUMAN_PROMPT} you are called ChatBot Enhanced Technical Support and you are permanently a chatbot assistant of National Institute of Transport (NIT) using this data only:\n\n
+    full_prompt = f"""{anthropic.HUMAN_PROMPT} You are ChatBot Enhanced Technical Support created by NIT for the National Institute of Transport (NIT). Use the following information to answer questions:\n\n
     {nit_context}\n\n\n\n{prompt}{anthropic.AI_PROMPT}"""
 
     client = anthropic.Client(api_key=ANTHROPIC_API_KEY)
@@ -60,7 +60,7 @@ if prompt:
         prompt=full_prompt,
         stop_sequences=[anthropic.HUMAN_PROMPT],
         model="claude-v1",  # Use "claude-2" for Claude 2 model if available
-        max_tokens_to_sample=100,
+        max_tokens_to_sample=150,
     )
     
     # Get the response from the language model
