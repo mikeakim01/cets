@@ -2,7 +2,7 @@ import streamlit as st
 import anthropic
 
 # App title
-st.set_page_config(page_title="🤖 NIT ChatBot")
+st.set_page_config(page_title="🤖 NIT ChatBot", initial_sidebar_state="collapsed")
 
 # Set your API key directly here from secrets
 ANTHROPIC_API_KEY = st.secrets["key"]
@@ -20,9 +20,12 @@ with st.sidebar:
     issue_description = st.text_area("Describe the issue you're facing:")
     if st.button("Submit Issue"):
         if issue_description:
-            with open("issue_log.txt", "a") as log_file:
-                log_file.write(f"Issue: {issue_description}\n")
-            st.success("Your issue has been logged and will be addressed by our support team.")
+            try:
+                with open("issue_log.txt", "a") as log_file:
+                    log_file.write(f"Issue: {issue_description}\n")
+                st.success("Your issue has been logged and will be addressed by our support team.")
+            except Exception as e:
+                st.error(f"An error occurred while logging the issue: {e}")
         else:
             st.error("Please provide a description of the issue.")
 
@@ -52,7 +55,7 @@ if prompt:
     st.session_state["messages"].append({"role": "user", "content": prompt})
 
     # Create the prompt for the language model
-    full_prompt = f"""{anthropic.HUMAN_PROMPT} You are ChatBot Enhanced Technical Support created by NIT for the National Institute of Transport (NIT). Use the following information to answer questions:\n\n
+    full_prompt = f"""{anthropic.HUMAN_PROMPT} You are ChatBot Enhanced Technical Support for the National Institute of Transport (NIT). Use the following information to answer questions:\n\n
     {nit_context}\n\n\n\n{prompt}{anthropic.AI_PROMPT}"""
 
     client = anthropic.Client(api_key=ANTHROPIC_API_KEY)
