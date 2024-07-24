@@ -2,7 +2,7 @@ import streamlit as st
 import anthropic
 
 # App title
-st.set_page_config(page_title="🤖 NIT ChatBot)
+st.set_page_config(page_title="🤖 NIT ChatBot")
 
 # Set your API key directly here from secrets
 ANTHROPIC_API_KEY = st.secrets["key"]
