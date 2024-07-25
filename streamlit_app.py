@@ -63,7 +63,7 @@ if prompt:
         prompt=full_prompt,
         stop_sequences=[anthropic.HUMAN_PROMPT],
         model="claude-v1",  # Use "claude-2" for Claude 2 model if available
-        max_tokens_to_sample=150,
+        max_tokens_to_sample=200,
     )
     
     # Get the response from the language model
