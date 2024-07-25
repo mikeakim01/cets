@@ -1057,6 +1057,9 @@ How to apply at NIT
 Apply online
 link : https://oas.nit.ac.tz/
 
+short course admission
+link: https://simssc.nit.ac.tz/index.php/login/
+
 Research and Consultancy
 NIT is a hub for research and consultancy in transportation, with a focus on solving real-world challenges and informing policy. The institute collaborates with various stakeholders to drive innovation and improvement in the transportation sector.
 Key Research Areas
