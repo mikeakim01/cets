@@ -47,7 +47,7 @@ if prompt:
     st.session_state["messages"].append({"role": "user", "content": prompt})
 
     # Create the prompt for the language model
-    full_prompt = f"""{anthropic.HUMAN_PROMPT} You are ChatBot Enhanced Technical Support made by NIT for the National Institute of Transport (NIT). Use the following information to answer questions:\n\n
+    full_prompt = f"""{anthropic.HUMAN_PROMPT} You are a ChatBot Enhanced Technical Support made by NIT for the National Institute of Transport (NIT). Use the following information to answer questions:\n\n
     {nit_context}\n\n\n\n{prompt}{anthropic.AI_PROMPT}"""
 
     client = anthropic.Client(api_key=ANTHROPIC_API_KEY)
