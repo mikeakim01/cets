@@ -12,12 +12,24 @@ The National Institute of Transport has five (5) faculties which include the Fac
  
 The Institute has more than 16,000 long-programme students, and offers 2 Master’s Degrees, 18 Bachelor's Degrees and 23 Ordinary Diploma courses for 2 years, 3 years, and 4 years, depending on the area of specialization. The Institute offers multiple short courses as well, covering all modes of transport including Air Transport, Rail Transport, Road Transport, Water Transport and Pipeline Transport. The Institute is accredited by the Tanzania Civil Aviation Authority (TCAA) to offer Aircraft Maintenance Engineering Basic Courses, Aircraft Maintenance Engineering Short Courses (i.e., Airframe, Power plant, Avionics (electrical, instruments, radio communication, and navigation, radar), remote compass and direct compass reading), Ab initio cabin crew, Flight operations officer and recurrence courses. It is also accredited by the International Air Transport Association (IATA) to conduct training in Airline Marketing, Airline Customer Service, Airport Operations Fundamentals, and Global Distribution Systems.
 
-department
 
+FACULTY OF INFORMATICS AND TECHNICAL EDUCATION (FoITE)
+Dr. Laurencia N Massawe is Dean of Faculty of Informatics and Technical Education
+ email: foite@nit.ac.tz
+ phone: +255755893585
 1.DEPARTMENT OF  COMPUTING AND COMMUNICATION TECHNOLOGY (CCT)
 Eng. Dr. Angela-Aida K. Runyoro is Head of Computing and Communication Technology
  email: head.cct@nit.ac.tz
  phone: +255754985989
+
+2.DEPARTMENT OF  HUMANITIES AND SOCIAL SCIENCE (HSS)
+Dr. Mary Mashoke is Head of Humanities and Social Science
+ email: head.hss@nit.ac.tz
+ phone: +255713273871
+3.EDUCATION AND MATHEMATICS (EM)
+Dr. Salamida D. Ngulyati is Head of Education and Mathematics
+ email: head.em@nit.ac.tz
+ phone: +255759082106
 
 
 Mission and Vision
