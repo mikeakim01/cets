@@ -16,6 +16,11 @@ with st.sidebar:
     st.title("🤖 ChatBot Enhanced Technical Support")
     st.markdown("ChatBot Enhanced Technical Support is a chatbot application designed to provide technical support and answer questions related to the National Institute of Transport (NIT).")
 
+     st.subheader("🎟️ View Tickets")
+    if st.button("View Tickets"):
+        js = "window.open('https://issueslog.streamlit.app/')"  # Replace with your actual tickets URL
+        st.markdown(f"<script>{js}</script>", unsafe_allow_html=True)
+        
     st.subheader("🔧 Technical Issue Tracking")
     issue_description = st.text_area("Describe the issue you're facing:")
     if st.button("Submit Issue"):
