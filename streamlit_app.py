@@ -15,7 +15,7 @@ with st.spinner("Loading..."):
 with st.sidebar:
     st.title("🤖 ChatBot Enhanced Technical Support")
     st.markdown("ChatBot Enhanced Technical Support is a chatbot application designed to provide technical support and answer questions related to the National Institute of Transport (NIT).")
-
+    st.markdown("[Technical Issue Tracking](https://issueslog.streamlit.app/)")
     st.subheader("🔧 Technical Issue Tracking")
     issue_description = st.text_area("Describe the issue you're facing:")
     if st.button("Submit Issue"):
@@ -29,7 +29,7 @@ with st.sidebar:
         else:
             st.error("Please provide a description of the issue")
     
-    "[Go to Issue Log Page"](https://platform.openai.com/account/api-keys)"
+  
 # Read NIT information from the text file
 try:
     with open("nit_info.txt", "r") as file:
