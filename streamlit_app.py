@@ -15,6 +15,9 @@ with st.spinner("Loading..."):
 with st.sidebar:
     st.title("🤖 ChatBot Enhanced Technical Support")
     st.markdown("ChatBot Enhanced Technical Support is a chatbot application designed to provide technical support and answer questions related to the National Institute of Transport (NIT).")
+
+    st.button("Go to Issue Log Page"):
+        st.write("[Issue Log Page](https://issueslog.streamlit.app/)")
     
     st.subheader("🔧 Technical Issue Tracking")
     issue_description = st.text_area("Describe the issue you're facing:")
@@ -29,8 +32,7 @@ with st.sidebar:
         else:
             st.error("Please provide a description of the issue
 
- st.button("Go to Issue Log Page"):
-        st.write("[Issue Log Page](https://issueslog.streamlit.app/)")
+ 
 
 # Read NIT information from the text file
 try:
