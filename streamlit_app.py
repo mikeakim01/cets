@@ -2,13 +2,15 @@ import streamlit as st
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 
+
+# Set your API key directly here from secrets
+ANTHROPIC_API_KEY = st.secrets["key"]
+
 # Set up Google Sheets API credentials
 scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
 creds = ServiceAccountCredentials.from_json_keyfile_name("chatbot-logs-430505-493f579332003.json", scope)
 client = gspread.authorize(creds)
 
-# Set your API key directly here from secrets
-ANTHROPIC_API_KEY = st.secrets["key"]
 
 # Open the Google Sheet
 sheet = client.open("NIT_Issue_Log").sheet1
