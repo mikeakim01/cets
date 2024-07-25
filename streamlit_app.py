@@ -27,7 +27,10 @@ with st.sidebar:
             except Exception as e:
                 st.error(f"An error occurred while logging the issue: {e}")
         else:
-            st.error("Please provide a description of the issue.")
+            st.error("Please provide a description of the issue
+
+ st.button("Go to Issue Log Page"):
+        st.write("[Issue Log Page](https://issueslog.streamlit.app/)")
 
 # Read NIT information from the text file
 try:
