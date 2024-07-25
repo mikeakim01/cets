@@ -1,32 +1,33 @@
 import streamlit as st
-import gspread
-from oauth2client.service_account import ServiceAccountCredentials
+import anthropic
 
+# App title
+st.set_page_config(page_title="🤖 NIT ChatBot", initial_sidebar_state="collapsed")
 
 # Set your API key directly here from secrets
 ANTHROPIC_API_KEY = st.secrets["key"]
 
-# Set up Google Sheets API credentials
-scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
-creds = ServiceAccountCredentials.from_json_keyfile_name("chatbot-logs-430505-493f579332003.json", scope)
-client = gspread.authorize(creds)
-
-
-# Open the Google Sheet
-sheet = client.open("NIT_Issue_Log").sheet1
-
-# Function to log issues
-def log_issue_to_google_sheets(issue):
-    sheet.append_row([issue])
-
-# Sidebar for links
-with st.sidebar:
-    st.title("🤖 ChatBot Enhanced Technical Support")
-    st.markdown("ChatBot Enhanced Technical Support is a chatbot application designed to provide technical support and answer questions related to the National Institute of Transport (NIT).")
-
 # Add a loading spinner
 with st.spinner("Loading..."):
     st.title("🤖 NIT ChatBot Enhanced Technical Support")
+
+# Sidebar for links and technical issue tracking subsystem
+with st.sidebar:
+    st.title("🤖 ChatBot Enhanced Technical Support")
+    st.markdown("ChatBot Enhanced Technical Support is a chatbot application designed to provide technical support and answer questions related to the National Institute of Transport (NIT).")
+    
+    st.subheader("🔧 Technical Issue Tracking")
+    issue_description = st.text_area("Describe the issue you're facing:")
+    if st.button("Submit Issue"):
+        if issue_description:
+            try:
+                with open("issue_log.txt", "a") as log_file:
+                    log_file.write(f"Issue: {issue_description}\n")
+                st.success("Your issue has been logged and will be addressed by our support team.")
+            except Exception as e:
+                st.error(f"An error occurred while logging the issue: {e}")
+        else:
+            st.error("Please provide a description of the issue.")
 
 # Read NIT information from the text file
 try:
@@ -38,7 +39,7 @@ except FileNotFoundError:
 
 # Initialize session state for messages if not already present
 if "messages" not in st.session_state:
-    st.session_state["messages"] = [{"role": "assistant", "content": "How can I assist you with today?"}]
+    st.session_state["messages"] = [{"role": "assistant", "content": "Hello! How can I assist you with NIT today?"}]
 
 # Display chat history
 for message in st.session_state["messages"]:
@@ -54,7 +55,7 @@ if prompt:
     st.session_state["messages"].append({"role": "user", "content": prompt})
 
     # Create the prompt for the language model
-    full_prompt = f"""{anthropic.HUMAN_PROMPT} you are called ChatBot Enhanced Technical Support and you are permanently a chatbot assistant of National Institute of Transport (NIT) Using this data only:\n\n
+    full_prompt = f"""{anthropic.HUMAN_PROMPT} You are ChatBot Enhanced Technical Support for the National Institute of Transport (NIT). Use the following information to answer questions:\n\n
     {nit_context}\n\n\n\n{prompt}{anthropic.AI_PROMPT}"""
 
     client = anthropic.Client(api_key=ANTHROPIC_API_KEY)
@@ -62,11 +63,11 @@ if prompt:
         prompt=full_prompt,
         stop_sequences=[anthropic.HUMAN_PROMPT],
         model="claude-v1",  # Use "claude-2" for Claude 2 model if available
-        max_tokens_to_sample=100,
+        max_tokens_to_sample=150,
     )
     
     # Get the response from the language model
-    answer = response.completion
+    answer = response.completion.strip()
 
     # Append assistant response to the chat history
     st.session_state["messages"].append({"role": "assistant", "content": answer})
@@ -74,6 +75,3 @@ if prompt:
     # Display the assistant's response
     with st.chat_message("assistant"):
         st.write(answer)
-    
-    # Log the issue
-    log_issue_to_google_sheets(prompt)
