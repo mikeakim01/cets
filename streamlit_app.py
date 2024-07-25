@@ -15,19 +15,10 @@ with st.spinner("Loading..."):
 with st.sidebar:
     st.title("🤖 ChatBot Enhanced Technical Support")
     st.markdown("ChatBot Enhanced Technical Support is a chatbot application designed to provide technical support and answer questions related to the National Institute of Transport (NIT).")
-    st.markdown("[Technical Issue Tracking](https://issueslog.streamlit.app/)")
+    
     st.subheader("🔧 Technical Issue Tracking")
-    issue_description = st.text_area("Describe the issue you're facing:")
-    if st.button("Submit Issue"):
-        if issue_description:
-            try:
-                with open("issue_log.txt", "a") as log_file:
-                    log_file.write(f"Issue: {issue_description}\n")
-                st.success("Your issue has been logged and will be addressed by our support team.")
-            except Exception as e:
-                st.error(f"An error occurred while logging the issue: {e}")
-        else:
-            st.error("Please provide a description of the issue")
+    st.markdown("[Technical Issue Tracking](https://issueslog.streamlit.app/)")
+ 
     
   
 # Read NIT information from the text file
