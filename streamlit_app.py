@@ -16,7 +16,7 @@ with st.sidebar:
     st.title("🤖 ChatBot Enhanced Technical Support")
     st.markdown("ChatBot Enhanced Technical Support is a chatbot application designed to provide technical support and answer questions related to the National Institute of Transport (NIT).")
 
-     st.button("Go to Issue Log Page"):
+     if st.button("Go to Issue Log Page"):
         st.write("[Issue Log Page](https://issueslog.streamlit.app/)")
     
     st.subheader("🔧 Technical Issue Tracking")
