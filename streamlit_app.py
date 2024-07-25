@@ -29,12 +29,7 @@ with st.sidebar:
         else:
             st.error("Please provide a description of the issue")
     
-    # Add link to view tickets
-    st.subheader("🎟️ View Tickets")
-    if st.button("View Tickets"):
-        js = "window.open('https://issueslog.streamlit.app/')"  # Replace with your actual tickets URL
-        st.markdown(f"<script>{js}</script>", unsafe_allow_html=True)
-
+    "[Go to Issue Log Page"](https://platform.openai.com/account/api-keys)"
 # Read NIT information from the text file
 try:
     with open("nit_info.txt", "r") as file:
